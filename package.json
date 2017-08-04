@@ -1,0 +1,24 @@
+{
+  "name": "socket-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adel2302/socket-chat.git"
+  },
+  "author": "AC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adel2302/socket-chat/issues"
+  },
+  "homepage": "https://github.com/adel2302/socket-chat#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.3"
+  }
+}
